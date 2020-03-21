@@ -11,6 +11,7 @@ namespace ConsoleApp4
         static void Main(string[] args)
         {
             Console.WriteLine("贺小龙是1708A的");
+
         }
     }
 }
